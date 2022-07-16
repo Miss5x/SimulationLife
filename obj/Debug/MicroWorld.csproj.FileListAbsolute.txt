@@ -1,0 +1,10 @@
+C:\Users\anna_\Desktop\project\MicroWorld\bin\Debug\MicroWorld.exe.config
+C:\Users\anna_\Desktop\project\MicroWorld\bin\Debug\MicroWorld.exe
+C:\Users\anna_\Desktop\project\MicroWorld\bin\Debug\MicroWorld.pdb
+C:\Users\anna_\Desktop\project\MicroWorld\obj\Debug\MicroWorld.csproj.AssemblyReference.cache
+C:\Users\anna_\Desktop\project\MicroWorld\obj\Debug\MicroWorld.Form1.resources
+C:\Users\anna_\Desktop\project\MicroWorld\obj\Debug\MicroWorld.Properties.Resources.resources
+C:\Users\anna_\Desktop\project\MicroWorld\obj\Debug\MicroWorld.csproj.GenerateResource.cache
+C:\Users\anna_\Desktop\project\MicroWorld\obj\Debug\MicroWorld.csproj.CoreCompileInputs.cache
+C:\Users\anna_\Desktop\project\MicroWorld\obj\Debug\MicroWorld.exe
+C:\Users\anna_\Desktop\project\MicroWorld\obj\Debug\MicroWorld.pdb
